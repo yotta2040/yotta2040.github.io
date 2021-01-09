@@ -1,1 +1,82 @@
-theme: jekyll-theme-slate
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yotta2040.github.io" # the base hostname & protocol for your site 
+
+# THEME-SPECIFIC CONFIGURATION
+themesetting:
+  # Meta
+  title: Anthony Aguilar
+  avatar: ""
+  gravatar: "yotta2040"
+  description: "Coder , Blogger" # used by search engines
+
+  # Header and footer text
+  header_text: >
+     <p> Hola, soy Anthony !
+     </p>
+
+     <p>Me gusta la tecnologia, la programacion, la musica, todo lo relacionado al espacio, aprender nuevas cosa y enseñar a los demas!.</p>
+  header_text_feature_image:
+  footer_text: >
+   Follow me <a href="https://twitter.com/yotta2040">@yotta2040</a>
+
+  # Icons
+  rss: false
+  email_address: # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  github: "yotta2040"
+  google_plus:
+  instagram:
+  linkedin:  "www.linkedin.com/in/aguilar-anthony-ve"
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  
+  steam:
+  tumblr:
+  twitter: "yotta2040"
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: 
+  disqus_shortname: 
+  katex:  # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Continue reading"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  
+  # Post navigation
+  post_navigation: true
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  
+plugins:
+  - jekyll-sitemap

@@ -1,1 +1,3 @@
-# yotta2040.github.io
+
+## License
+The MIT License (MIT)

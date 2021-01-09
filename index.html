@@ -1,46 +1,52 @@
-<!DOCTYPE html>
-<html>
-<body>
+---
+layout: default
+---
 
-<table>
-    <tbody>
-        <tr>
-            <td style="vertical-align:top">
-                <div style="font-size:0.9em;margin-top:0px;padding-top:4px">
-                    <span style="font-family:verdana,geneva,sans-serif;">
-                        <div style="color:grey"><strong>Aune Soluciones</strong></div>
-                        <a style="color:orange">Web: </a><a href="http://aunesa.com" style="color:grey">http://aunesa.com</a>
-                    </span>
-                </div>
-                <br>
-                    <img height="40" src="https://user-generated.getmailspring.com/asset/ZGRlMDBjYTEtMDgxYS00MjRkLWEyZDEtMDI0Nzg5ODE1MjVlL3NpZy1sb2NhbC1mMzFjZWRiOS05Y2U3LnBuZw.png?t=1588880843090&msw=247&msh=72" style="max-width:170px;max-height:100px;" width="150"/>
-                </br>
-            </td>
-            <td>
-                <div style="font-size:0.9em;white-space:nowrap;border-left:1px solid grey;margin-left:20px;padding-left:20px">
-                    <div><a style="color:orange"><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size:16px;">Ing. Anthony <strong>Aguilar</strong></span></span></a></div>
-                    <div style="color:grey"><span style="font-family:verdana,geneva,sans-serif;">Área de Ingeniería</span></div>
-                    <br>
-                        <div>
-                            <div>
-                                <div>
-                                    <span style="font-family:verdana,geneva,sans-serif;">
-                                        <a style="color:orange">Tel:</a><span style="margin-right:8px"><a href="tel:+54 351 570 2204" style="color:grey">+54 (351) <strong>570-2204</strong></a></span>
-                                    </span>
-                                </div>
-                                <div>
-                                    <span style="font-family:verdana,geneva,sans-serif;">
-                                        <a style="color:orange">Email: </a><a href="mailto:aaguilar@aunesa.com" style="color:grey"><strong>aaguilar</strong>@aunesa.com</a>
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-                    </br>
-                </div>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<div class="home">
+  {% if site.themesetting.header_text %}
+  <div class="call-out" 
+  style="background-image: url('{{ site.baseurl }}/{{ site.themesetting.header_text_feature_image }}')">
+    {{ site.themesetting.header_text }}
+  </div>
+  {% endif %}
 
-</body>
-</html>
+  <div class="posts">
+    {% for post in paginator.posts %}
+    <div class="post-teaser">
+      <header>
+        <h1>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+          </a>
+        </h1>
+        <p class="meta">
+          {{ post.date | date: "%B %-d, %Y" }}
+        </p>
+      </header>
+      <div class="excerpt">
+        {{ post.excerpt }}
+        <a class="button" href="{{ post.url | prepend: site.baseurl }}">
+          {{ site.themesetting.str_continue_reading }}
+        </a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
+      <i class="fa fa-chevron-left"></i>
+      {{ site.themesetting.str_prev }}
+    </a>
+    {% endif %}
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
+      {{ site.themesetting.str_next }}
+      <i class="fa fa-chevron-right"></i>
+    </a>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>
