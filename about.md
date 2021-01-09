@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Acerca de Mi
 description : ""
 permalink: /about/
 feature-img: "img/sample_feature_img_2.png"

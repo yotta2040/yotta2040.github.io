@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Career
+title: Carrera
 description : ""
 permalink: /career/
 feature-img: "img/sample_feature_img_2.png"
