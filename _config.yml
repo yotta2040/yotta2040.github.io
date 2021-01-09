@@ -6,7 +6,7 @@ url: "http://yotta2040.github.io" # the base hostname & protocol for your site
 themesetting:
   # Meta
   title: Anthony Aguilar
-  avatar: ""
+  avatar: "https://avatars0.githubusercontent.com/u/33163875"
   gravatar: "yotta2040"
   description: "Coder , Blogger" # used by search engines
 
