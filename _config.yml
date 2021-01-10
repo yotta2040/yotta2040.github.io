@@ -19,7 +19,7 @@ themesetting:
    Sigueme en twitter <a href="https://twitter.com/yotta2040">@yotta2040</a>
 
   # Icons
-  rss: true
+  rss: false
   email_address: "aguilaranthony.ve@gmail.com" #Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
