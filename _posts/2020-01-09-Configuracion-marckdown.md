@@ -123,4 +123,4 @@ const test = (str) => str + 'test';
 <!-- Mentiosn -->
 @faztweb :+1: :smile:
 
-Let me know if you have any questions.
+Si tienes alguna duda, me puedes escribir!!..
