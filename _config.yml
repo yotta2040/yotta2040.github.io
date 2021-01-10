@@ -12,17 +12,15 @@ themesetting:
 
   # Header and footer text
   header_text: >
-     <p> Hola, soy Anthony !
-     </p>
-
+     <p> Hola, soy Anthony !</p>
      <p>Me gusta la tecnologia, la programacion, la musica, todo lo relacionado a la exploracion espacial, aprender nuevas cosa y enseñar a los demas!.</p>
   header_text_feature_image:
   footer_text: >
    Sigueme en twitter <a href="https://twitter.com/yotta2040">@yotta2040</a>
 
   # Icons
-  rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  rss: true
+  email_address: "aguilaranthony.ve@gmail.com" #Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
