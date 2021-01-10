@@ -42,7 +42,7 @@ themesetting:
 
   # Scripts
   google_analytics: 
-  disqus_shortname: "yotta2040"
+  disqus_shortname: "yotta2040-github-io"
   katex:  # Enable if using math markup
 
   # Localization strings
