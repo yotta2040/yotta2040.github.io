@@ -3,7 +3,7 @@ layout: page
 title: Carrera
 description : ""
 permalink: /career/
-feature-img: "img/career/espacio.jpeg"
+feature-img: "img/page/espacio.jpeg"
 ---
 
 ### Systems Limited - April 2017 - Present - [Senior Software Engineer]
