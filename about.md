@@ -6,6 +6,16 @@ permalink: /about/
 feature-img: "img/page/espacio.jpeg"
 ---
 
+Tecnologias utilizadas: Java, PostgreSQL, Docker, DataNucleus, Vaadin, Shell Scripts, Postman, Eclipse, API REST. 
+SO: CentOS, Ubuntu, Windows
+
+
+Tecnologías utilizadas: GIT (GitLab), Datanucleus, Vaadin, Java 8. Eclipse, PosgreSQL, JDO, Docker, Apache server, SonarQube.
+Sistemas operativos: Linux Centos / Ubuntu
+Equipo de trabajo agile, utilizando Scrum con Jira para la gestión de tareas.
+
+
+
 
 Experience of more than 9 years in IT dealing with wide range of applications and platforms, experience within multi-tier environments configuration, implementation, solution architect and teams leading roles. Delivered/ deployed mission critical applications/ solutions for world-wide customers on high availability productions environment’s application layer. Introduced/ implemented number of change control process, configuration management policies/ documents within project life cycle.
 
