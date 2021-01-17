@@ -17,23 +17,22 @@ Equipo de trabajo agile, utilizando Scrum con Jira para la gestión de tareas.
 
 
 
-Experience of more than 9 years in IT dealing with wide range of applications and platforms, experience within multi-tier environments configuration, implementation, solution architect and teams leading roles. Delivered/ deployed mission critical applications/ solutions for world-wide customers on high availability productions environment’s application layer. Introduced/ implemented number of change control process, configuration management policies/ documents within project life cycle.
-
-### Expertise
+Experiencia de más de 9 años en TI tratando con una amplia gama de aplicaciones y plataformas, experiencia en configuración de entornos multinivel, implementación, arquitecto de soluciones y roles de liderazgo de equipos. Entregar / implementar aplicaciones / soluciones de misión crítica para clientes de todo el mundo en la capa de aplicaciones del entorno de producciones de alta disponibilidad. Número introducido / implementado de procesos de control de cambios, políticas / documentos de gestión de configuración dentro del ciclo de vida del proyecto.
+### Experiencia
 
 1. Worked in SAP HCM Module Product Development
 2. System Analysis and Design
 3. Business Design in Enterprise Resource Planning
 
-### Skillset
+### Habilidades
 
-#### Analytic Skills
+#### Habilidades Analiticas
 
 - UML
 - Data Modeling
 - Eclipse Modeling Framework
 
-#### Technical Skills
+#### Habilidades Técnicas
 
 ##### Front-end
 
@@ -60,17 +59,18 @@ Experience of more than 9 years in IT dealing with wide range of applications an
 
 ##### Other
 
-- C++, C#, Java, XML, XSLT, SQL, JavaScript
+- Java, XML, XSLT, SQL, JavaScript
 
-#### Data ware house
+#### Almacén de datos
 
 - Postgres, Oracle, 
 
-#### Version Controls
+#### Controles de versión
+
 - Git 
 - SVN (Subeclipse)
 
-#### Software Development Methodology
+#### Metodología de desarrollo de software
 
 - Scrum
 - Agile Project Management Tools 
