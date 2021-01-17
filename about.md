@@ -35,7 +35,7 @@ Ingeniero de Sistemas, con experiencia de más de 8 años en TI tratando con una
 ##### ORM
 - DataNucleus JDO
 
-#### Almacénes / Manejadores de datos
+##### Almacénes / Manejadores de datos
 - PostgreSQL, Oracle
 - DBeaver, pgAdmin ,Toad
 
@@ -47,7 +47,7 @@ Ingeniero de Sistemas, con experiencia de más de 8 años en TI tratando con una
 - JasperReports (iReport)
 
 ##### Otros
-- XML, XSLT, Lenguaje C, Pascal, API REST, Postman, SonarQube
+- XML, Lenguaje C, Pascal, API REST, Postman, SonarQube
 
 #### Controles de versión
 - Git 
@@ -69,18 +69,15 @@ Ingeniero de Sistemas, con experiencia de más de 8 años en TI tratando con una
 - Windows
 
 
+### Educación
 
-
-### Educational Background
-
-| Year  | Education |
+| Año  | Educación |
 | ------------- | ------------- |
 | 2005 - 2010 | Ingeniero de Sistemas - Universidad Nacional Experimental Politecnica de las Fuerzas Armadas |
 | 2010 - 2014 | Magister Gerencia de las TIC - Universidad Nacional Experimental Politecnica de las Fuerzas Armadas |
 
 
+### Contáctame
 
-### Contact me
-
-[aguilaranthony.ve@gmail.com](mailto:aguilaranthony.ve@gmail.com)
+Escríbeme al siguiente correo [aguilaranthony.ve@gmail.com](mailto:aguilaranthony.ve@gmail.com)
 
