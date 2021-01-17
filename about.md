@@ -7,6 +7,10 @@ feature-img: "img/page/espacio.jpeg"
 ---
 Ingeniero de Sistemas, con experiencia de más de 8 años en TI tratando con una amplia gama de aplicaciones y plataformas para la automatización de procesos; Capaz de analizar y solucionar problemas de hardware y software. Experiencia en configuración de entornos; Habilidad para trabajar en equipos multidisciplinarios; Proactivo; Alto sentido de responsabilidad; Motivación al aprendizaje sostenido. Capacidad de aporte de soluciones efectivas y de calidad; Orientación al logro.
 
+### Experiencia
+- Análisis y diseño de sistemas.
+- Desarrollo de Mejoras y Mantenimiento de Sistemas.
+- Configuracion de Entornos.
 
 ### Habilidades
 
@@ -35,14 +39,6 @@ Ingeniero de Sistemas, con experiencia de más de 8 años en TI tratando con una
 - PostgreSQL, Oracle
 - DBeaver, pgAdmin ,Toad
 
-#### Controles de versión
-- Git 
-    - GitHub
-    - GitLab
-- SVN 
-    -TortoiseSVN
-    -Eclipse Subversive - Subversion (SVN)
-
 ##### IDE / Editor de texto
 - Eclipse
 - Visual Studio Code, Sublime Text, Notepad++
@@ -50,18 +46,29 @@ Ingeniero de Sistemas, con experiencia de más de 8 años en TI tratando con una
 ##### Manejo de reportes 
 - JasperReports (iReport)
 
+##### Otros
+- XML, XSLT, Lenguaje C, Pascal, API REST, Postman, SonarQube
+
+#### Controles de versión
+- Git 
+    - GitHub
+    - GitLab
+- SVN 
+    - TortoiseSVN
+    - Eclipse Subversive - Subversion (SVN)
+
+
 #### Metodología de desarrollo de software
 - Scrum
 - Herramientas de gestión de proyectos ágiles
     - Atlassian JIRA
 
-##### Sistemas Operativos
+#### Sistemas Operativos
 - Ubuntu, CentOS
 - MacOS
 - Windows
 
-##### Otros
-- XML, XSLT, Lenguaje C, Pascal, API REST, Postman, SonarQube
+
 
 
 ### Educational Background
@@ -77,4 +84,3 @@ Ingeniero de Sistemas, con experiencia de más de 8 años en TI tratando con una
 
 [aguilaranthony.ve@gmail.com](mailto:aguilaranthony.ve@gmail.com)
 
-[@yotta2040](https://twitter.com/yotta2040)
