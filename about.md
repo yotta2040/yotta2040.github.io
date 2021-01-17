@@ -5,12 +5,14 @@ description : ""
 permalink: /about/
 feature-img: "img/page/espacio.jpeg"
 ---
-Ingeniero de Sistemas, con experiencia de más de 8 años en TI tratando con una amplia gama de aplicaciones y plataformas para la automatización de procesos; Capaz de analizar y solucionar problemas de hardware y software. Experiencia en configuración de entornos; Habilidad para trabajar en equipos multidisciplinarios; Proactivo; Alto sentido de responsabilidad; Motivación al aprendizaje sostenido. Capacidad de aporte de soluciones efectivas y de calidad; Orientación al logro.
+
+Ingeniero de Sistemas con más de 8 años de experiencia en la Tecnología de la Información, con experiencia en múltiples plataformas y aplicaciones enfocado en la automatización de proceso, capaz de analizar problemáticas y poder dar soluciones a las mismas, tanto a nivel de hardware como de software, comprometido con la armonía del trabajo en equipo y así mismo en el desarrollo de trabajos multidisciplinario, dando soluciones efectivas y de calidad que permitan el cumplimiento de los objetivos.
+
 
 ### Experiencia
 - Análisis y diseño de sistemas.
 - Desarrollo de Mejoras y Mantenimiento de Sistemas.
-- Configuracion de Entornos.
+- Configuración de Entornos.
 
 ### Habilidades
 
@@ -63,10 +65,15 @@ Ingeniero de Sistemas, con experiencia de más de 8 años en TI tratando con una
 - Herramientas de gestión de proyectos ágiles
     - Atlassian JIRA
 
+#### Ofimatica
+- Microsoft Office, Apache OpenOffice, LibreOffice
+- Microsoft Project
+
 #### Sistemas Operativos
 - Ubuntu, CentOS
 - MacOS
 - Windows
+
 
 
 ### Educación
