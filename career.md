@@ -3,7 +3,7 @@ layout: page
 title: Carrera
 description : ""
 permalink: /career/
-feature-img: "img/page/espacio.jpeg"
+feature-img: "img/page/fondo_titulo.jpeg"
 ---
 
 <!--Aune-->

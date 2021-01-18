@@ -3,7 +3,7 @@ layout: page
 title: Acerca de Mi
 description : ""
 permalink: /about/
-feature-img: "img/page/espacio.jpeg"
+feature-img: "img/page/fondo_titulo.jpeg"
 ---
 
 Ingeniero de Sistemas con más de 8 años de experiencia en la Tecnología de la Información, con experiencia en múltiples plataformas y aplicaciones enfocado en la automatización de proceso, capaz de analizar problemáticas y poder dar soluciones a las mismas, tanto a nivel de hardware como de software, comprometido con la armonía del trabajo en equipo y así mismo en el desarrollo de trabajos multidisciplinario, dando soluciones efectivas y de calidad que permitan el cumplimiento de los objetivos.
